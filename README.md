@@ -1,12 +1,12 @@
 # Hi there 👋
 
-I am **Mayur Dalimbkar**, a passionate **DevOps Engineer** from 🇮🇳 with **3+ years of experience** in cloud infrastructure, automation, and CI/CD pipelines.
+I am **Rohan Amrale**, a passionate **DevOps Engineer** from 🇮🇳 with **3+ years of experience** in cloud infrastructure, automation, and CI/CD pipelines.
 
 I specialize in deploying scalable, reliable, and secure systems using modern DevOps tools and cloud platforms.
 
 🚀 I mostly work with:
 - Infrastructure as Code
-- Cloud (AWS & Azure)
+- Cloud (AWS & GCP)
 - Kubernetes and Docker
 - CI/CD Pipelines
 - Monitoring and Logging
@@ -36,10 +36,8 @@ I specialize in deploying scalable, reliable, and secure systems using modern De
 
 ## 📫 How to reach me?
 
-- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/mayur-dalimbkar-977855319/)  
-- 🐦 [Follow me on Twitter](https://x.com/mayurdalimbkar?s=21)
-- 📷 [Follow me on Instagram](https://www.instagram.com/mayur_md.26)
-- 📩 [Shoot me an Email](mailto:mayurdalimbkar26@gmail.com)  
+- 💼 [Connect on LinkedIn](www.linkedin.com/in/rohan-amrale-4409b4223/)  
+- 📩 [Shoot me an Email](mailto:rohanamrale41@gmail.com)  
 
 ---
 
