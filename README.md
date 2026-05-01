@@ -36,7 +36,7 @@ I specialize in deploying scalable, reliable, and secure systems using modern De
 
 ## 📫 How to reach me?
 
-- 💼 [Connect on LinkedIn](www.linkedin.com/in/rohan-amrale-4409b4223/)  
+- 💼 [Connect on LinkedIn](www.linkedin.com/in/rohan-amrale-4409b4223)  
 - 📩 [Shoot me an Email](mailto:rohanamrale41@gmail.com)  
 
 ---
