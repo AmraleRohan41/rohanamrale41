@@ -6,7 +6,7 @@ I am **Rohan Amrale**, a passionate **DevOps Engineer** with 3+ years of experie
 
 ---
 
-## 🚀 What I Do
+## 🚀 I mostly work with:
 
 - Infrastructure as Code (Terraform)
 - Cloud Platforms (AWS, GCP)
@@ -32,31 +32,14 @@ I am **Rohan Amrale**, a passionate **DevOps Engineer** with 3+ years of experie
 
 ---
 
-## 📊 GitHub Stats
-
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanamrale41&show_icons=true&theme=radical)
-
----
-
-## 🔥 Projects
-
-### 🚀 AWS EKS DevOps Platform
-- Built production-grade EKS cluster using Terraform  
-- Implemented CI/CD pipelines  
-- Monitoring using Prometheus & Grafana  
-
-### 📊 Reporting Pipeline
-- Dockerized Python reporting system  
-- Automated CI/CD using Jenkins  
-- Integrated AWS S3 & Email automation  
-
----
 
 ## 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/rohan-amrale-4409b4223  
-- GitHub: https://github.com/AmraleRohan41  
+- GitHub: https://github.com/AmraleRohan41
+- Mail to: rohanamrale41@gmail.com
 
 ---
 
-⭐ *Always learning and building in DevOps & Cloud!*
+⭐ I love building reliable systems and automating boring stuff.
+Let’s innovate and scale together! 🚀
